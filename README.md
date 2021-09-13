@@ -6,14 +6,14 @@ and in this file you will see how mysql will help to explore it with mysql queri
 
 HIGHLIGHT TOPICS 
 
--MYSQL COMMANDS
--DDL
--DML
--CONSTRAINTS
--JOINS
--TRIGGER
--STORE PROCEDURE
--VIEW
--OPERATORS
--ERD(Entity Relationship Diagram ) picture
-and functions of MYSQL.
+- MYSQL COMMANDS
+- DDL
+- DML
+- CONSTRAINTS
+- JOINS
+- TRIGGER
+- STORE PROCEDURE
+- VIEW
+- OPERATORS
+- ERD(Entity Relationship Diagram ) picture
+  and functions of MYSQL.
